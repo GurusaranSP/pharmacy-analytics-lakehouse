@@ -1,1 +1,0 @@
-Pharmacy Analytics Lakehouse Project
